@@ -1,4 +1,4 @@
-,exp,Elab,X,Q2,W2,target,current,lepton beam,obs,RATIO,ISO,value,COU,stat_u,syst_u,*norm_c
+index,exp,Elab,X,Q2,W2,target,current,lepton beam,obs,RATIO,ISO,value,COU,stat_u,syst_u,*norm_c
 0,JLab Hall C (E03-103),5.767,0.325,2.8682,6.8374,h/d,NC,e_minus,sig_r,0.9774,0.94,1.0397872340425534,1.001,0.006198,0.009631,0.019132085106382982
 1,JLab Hall C (E03-103),5.767,0.35,3.0456,6.5365,h/d,NC,e_minus,sig_r,0.9763,0.9367,1.0422760755844986,1.001,0.005872,0.009673,0.019177879790754776
 2,JLab Hall C (E03-103),5.767,0.375,3.2182,6.244,h/d,NC,e_minus,sig_r,0.9796,0.9334,1.0494964645382472,1.001,0.00574,0.009759,0.01931073494750375

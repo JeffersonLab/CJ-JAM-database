@@ -1,4 +1,4 @@
-,exp,length ,x,q2,Elab,e',theta,epsilon,obs,target,lepton beam,current,unit,*value,%stat_u,%sys_u,*%norm_c,*%drc,r1998,%dR_u
+index,exp,length ,x,q2,Elab,e',theta,epsilon,obs,target,lepton beam,current,unit,*value,%stat_u,%sys_u,*%norm_c,*%drc,r1998,%dR_u
 0,e140x,4cm,0.1,0.5,3.3,0.636,28.261,0.342,sig_r,d,e_minus,nc,1,0.22687,0.0018413,0.0015584,1.73205080756888,1,0.310160132525621,0.7
 1,e140x,4cm,0.1,0.5,4.0,1.336,17.598,0.579,sig_r,d,e_minus,nc,1,0.23151,0.0014981,0.0016309,1.73205080756888,1,0.310160132525621,0.7
 2,e140x,4cm,0.1,0.5,4.95,2.286,12.067,0.746,sig_r,d,e_minus,nc,1,0.24871,0.0014709,0.0018293,1.73205080756888,1,0.310160132525621,0.7

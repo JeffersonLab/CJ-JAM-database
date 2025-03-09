@@ -1,4 +1,4 @@
-,exp,x,Q2,obs,target,lepton beam,current,units,value,dstat_u,dsys,%dVX_c,%dSM_c,%dRC_c,%dE_c,%dEp_c,%*norm_c
+index,exp,x,Q2,obs,target,lepton beam,current,units,value,dstat_u,dsys,%dVX_c,%dSM_c,%dRC_c,%dE_c,%dEp_c,%*norm_c
 0,nmc,0.0015,0.16,F2,d/p,mu_minus,nc,1,0.9815,0.0203,0.0109,0.1,0.0,1.1,0.0,0.0,0.25
 1,nmc,0.0015,0.25,F2,d/p,mu_minus,nc,1,1.003,0.0212,0.0134,0.1,0.0,1.3,0.1,0.1,0.25
 2,nmc,0.0015,0.35,F2,d/p,mu_minus,nc,1,0.9675,0.0205,0.0112,0.2,0.0,1.1,0.0,0.0,0.25

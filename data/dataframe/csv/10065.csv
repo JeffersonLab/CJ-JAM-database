@@ -1,4 +1,4 @@
-,exp,x,Q2,target,obs,lepton beam,current,units,value,stat_u,syst_u,dRSY,dRSE,dRN1,dRN2,No,Deps,X2/df,dRRC_c,W2
+index,exp,x,Q2,target,obs,lepton beam,current,units,value,stat_u,syst_u,dRSY,dRSE,dRN1,dRN2,No,Deps,X2/df,dRRC_c,W2
 0,slac,0.1,0.63,d,R,e,NC,1,0.291,0.086,0.052,0.023,0.036,0.028,0.01,5,0.398,0.5,0.0263465,6.549843999999999
 1,slac,0.1,0.8,d,R,e,NC,1,0.214,0.17,0.088,0.072,0.022,0.043,0.015,4,0.2,0.0,0.025460999999999998,8.079844
 2,slac,0.1,1.0,d,R,e,NC,1,0.294,0.06,0.033,0.014,0.022,0.019,0.007,7,0.542,0.4,0.026381,9.879844

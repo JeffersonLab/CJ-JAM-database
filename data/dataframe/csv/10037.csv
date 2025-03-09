@@ -1,4 +1,4 @@
-,exp,X,Q2,RS,obs,target,lepton beam,current,units,value,%stat_u,%ucor_u,%cor_u
+index,exp,X,Q2,RS,obs,target,lepton beam,current,units,value,%stat_u,%ucor_u,%cor_u
 0,HERA I and II charm rean.,3e-05,2.5,318,sigcc_r,p,none,NC,1,0.1142,8.9,10.7,9.4
 1,HERA I and II charm rean.,7e-05,2.5,318,sigcc_r,p,none,NC,1,0.1105,5.8,6.7,8.2
 2,HERA I and II charm rean.,0.00013,2.5,318,sigcc_r,p,none,NC,1,0.0911,7.1,6.2,7.9

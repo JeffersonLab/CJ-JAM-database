@@ -1,4 +1,4 @@
-,exp,x,Q2,W2,epsilon,sigma,stat,value,stf2rec_u,obs,target,lepton beam,current,units,%*norm_c
+index,exp,x,Q2,W2,epsilon,sigma,stat,value,stf2rec_u,obs,target,lepton beam,current,units,%*norm_c
 0,e94110,0.790805,1.297,1.225,0.960558,9.393,2.164,0.007602,0.001751,F2,p,e,NC,1,1.9
 1,e94110,0.766109,1.291,1.275,0.959708,30.63,3.726,0.025463,0.003098,F2,p,e,NC,1,1.9
 2,e94110,0.742927,1.284,1.325,0.958852,60.76,6.344,0.05174,0.005402,F2,p,e,NC,1,1.9

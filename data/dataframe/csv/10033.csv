@@ -1,4 +1,4 @@
-,exp,Elab,x,Q2,obs,target,lepton beam,current,units,value unscaled,stat unscaled,sys unscaled,value,stat_u,sys_u,*norm_c
+index,exp,Elab,x,Q2,obs,target,lepton beam,current,units,value unscaled,stat unscaled,sys unscaled,value,stat_u,sys_u,*norm_c
 0,bonus,4.223,0.079,0.423,F2,n/d,e_minus,NC,1,0.005,0.005,0.0,0.01,0.01,0.0,0.00045
 1,bonus,4.223,0.113,0.505,F2,n/d,e_minus,NC,1,0.211,0.255,0.001,0.422,0.51,0.002,0.01899
 2,bonus,4.223,0.111,0.508,F2,n/d,e_minus,NC,1,0.097,0.166,0.0,0.194,0.332,0.0,0.00873

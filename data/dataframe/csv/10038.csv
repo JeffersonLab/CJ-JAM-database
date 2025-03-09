@@ -1,4 +1,4 @@
-,exp,X,Q2,RS,obs,target,lepton beam,current,units,value,%stat_u,%ucor_u,%cor_c
+index,exp,X,Q2,RS,obs,target,lepton beam,current,units,value,%stat_u,%ucor_u,%cor_c
 0,HERA I and II bottom rean.,0.00013,2.5,318,sigbb_r,p,none,NC,1,0.0018,28.4,22.4,11.4
 1,HERA I and II bottom rean.,0.00018,5.0,318,sigbb_r,p,none,NC,1,0.0048,10.5,7.1,19.8
 2,HERA I and II bottom rean.,0.00013,7.0,318,sigbb_r,p,none,NC,1,0.0059,8.8,11.2,12.7

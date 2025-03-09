@@ -1,3 +1,3 @@
-,exp,obs,value,Q2,target,stat_u,syst_u,X,Y
+index,exp,obs,value,Q2,target,stat_u,syst_u,X,Y
 0,Jlab,A_PV_e,-9.109999999999999e-05,1.085,d,3.1e-06,3e-06,0.241,0.39673644305257955
 1,Jlab,A_PV_e,-0.0001608,1.901,d,6.4e-06,3.1e-06,0.295,0.5665073347618264

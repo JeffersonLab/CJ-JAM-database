@@ -1,4 +1,4 @@
-,X,Q2,exp,obs,target,lepton beam,current,units,value,stat_u,syst_u,*norm_c
+index,X,Q2,exp,obs,target,lepton beam,current,units,value,stat_u,syst_u,*norm_c
 0,0.07,0.59,slac_reb,F2,d,e,NC,1,0.2567,0.0062,0.0039,0.0043639
 1,0.07,0.81,slac_reb,F2,d,e,NC,1,0.2922,0.0056,0.0035,0.0049674
 2,0.07,0.9,slac_reb,F2,d,e,NC,1,0.2981,0.0036,0.0039,0.0050677

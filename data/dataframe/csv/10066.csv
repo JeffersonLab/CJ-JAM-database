@@ -1,4 +1,4 @@
-,exp,x,Q2,target,obs,value,ST_u,SY_c,*dRRC_c,lepton beam,current,units,W2
+index,exp,x,Q2,target,obs,value,ST_u,SY_c,*dRRC_c,lepton beam,current,units,W2
 0,e140,0.2,1.0,d,r,0.376,0.042,0.031,0.03,e,NC,1,4.879844
 1,e140,0.2,1.5,d,r,0.269,0.042,0.03,0.03,e,NC,1,6.879844
 2,e140,0.2,2.5,d,r,0.104,0.047,0.027,0.03,e,NC,1,10.879844

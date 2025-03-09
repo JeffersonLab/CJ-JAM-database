@@ -1,4 +1,4 @@
-,exp,I,J,Elab,x,Q2,epsilon,y,target,obs,lepton beam,current,units,sigma(pb/srGeV),%ptp,%syst,obs.1,*value,%stat_u,%dSR_u,%dSY_c,%dSE_c,%dRC_c,%dN1_c,%1dN2_c,%2dN2_c,%3dN2_c,%4dN2_c,%5dN2_c,%6dN2_c,%7dN2_c,%8dN2_c,%*norm_c
+index,exp,I,J,Elab,x,Q2,epsilon,y,target,obs,lepton beam,current,units,sigma(pb/srGeV),%ptp,%syst,obs.1,*value,%stat_u,%dSR_u,%dSY_c,%dSE_c,%dRC_c,%dN1_c,%1dN2_c,%2dN2_c,%3dN2_c,%4dN2_c,%5dN2_c,%6dN2_c,%7dN2_c,%8dN2_c,%*norm_c
 0,slac,1,1,10.027,0.274,0.904,0.976,0.175226887404009,p,sig_r,e_minus,NC,1,1203000.0,2.4,1.0,sig_r,0.298146649543742,0.8,2.3,0.7,-0.3,0.5,0.5,0.3,0,0.0,0.0,0.0,0.0,0,0,2.1
 1,slac,2,1,10.027,0.224,0.87,0.968,0.206642066420664,p,sig_r,e_minus,NC,1,1096000.0,2.3,1.0,sig_r,0.318773697020931,0.6,2.3,0.7,-0.3,0.5,0.5,0.3,0,0.0,0.0,0.0,0.0,0,0,2.1
 2,slac,3,1,10.027,0.177,0.824,0.955,0.247830856686945,p,sig_r,e_minus,NC,1,932200.0,2.3,1.0,sig_r,0.320044392604578,0.6,2.2,0.7,-0.4,0.5,0.5,0.3,0,0.0,0.0,0.0,0.0,0,0,2.1

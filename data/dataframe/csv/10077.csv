@@ -1,4 +1,4 @@
-,exp,W2,Q2,X,nu,target,obs,value,F2Aerr_u,F2Aangle_c,F2Arad_c
+index,exp,W2,Q2,X,nu,target,obs,value,F2Aerr_u,F2Aangle_c,F2Arad_c
 0,Jlab-E06-009,0.71,2,1.0931,0.97501,d,F2,0.0189455,0.00128125,0.0,0.0
 1,Jlab-E06-009,0.75,2,1.0697,0.99632,d,F2,0.027941,0.00131605,0.0,0.0
 2,Jlab-E06-009,0.79,2,1.0473,1.0176,d,F2,0.0427555,0.00100595,5.5585e-05,4.9483e-07

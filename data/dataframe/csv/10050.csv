@@ -1,4 +1,4 @@
-,exp,X,Q2,scaled,value,obs,target,lepton beam,stat_scaled,stat_u,syst_scaled,syst_u,*norm_c
+index,exp,X,Q2,scaled,value,obs,target,lepton beam,stat_scaled,stat_u,syst_scaled,syst_u,*norm_c
 0,MARATHON,0.195,2.73,1.725,0.8625,F2,d/p,e,0.005,0.0025,0.01,0.005,0.006900000000000001
 1,MARATHON,0.225,3.15,1.697,0.8485,F2,d/p,e,0.005,0.0025,0.008,0.004,0.006788000000000001
 2,MARATHON,0.255,3.57,1.674,0.837,F2,d/p,e,0.007,0.0035,0.008,0.004,0.006696

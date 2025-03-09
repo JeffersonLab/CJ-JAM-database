@@ -1,4 +1,4 @@
-,exp,Q2,x,value,stat_u,sys,eff_c,ee_c,phe_c,rdc_c,mom_c,rlt_c,tot,obs,target,lepton beam,current,units,*%norm_c
+index,exp,Q2,x,value,stat_u,sys,eff_c,ee_c,phe_c,rdc_c,mom_c,rlt_c,tot,obs,target,lepton beam,current,units,*%norm_c
 0,clas6,0.225,0.1315,0.3009,0.0006194,0.01573,0.011032,0.0,0.00079805,0.0045135,0.0080632,0.0062873,0.015725,F2,p,e,nc,1,1
 1,clas6,0.225,0.1405,0.3228,0.0007125,0.01276,0.010085,0.0,0.00080765,0.004842,0.0013438,0.0059324,0.012759,F2,p,e,nc,1,1
 2,clas6,0.225,0.1495,0.2487,0.0006064,0.008952,0.0068572,0.0,0.00059084,0.0037305,0.001513,0.004074,0.0089539,F2,p,e,nc,1,1

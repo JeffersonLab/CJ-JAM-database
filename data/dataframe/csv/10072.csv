@@ -1,4 +1,4 @@
-,exp,target,lepton beam,current,units,obs,x,Q2,w2,value,%stat_u,%*syst_u,%*norm_c
+index,exp,target,lepton beam,current,units,obs,x,Q2,w2,value,%stat_u,%*syst_u,%*norm_c
 0,jlcee96,p,e,nc,1,f2,0.1282933,0.45,3.937588,0.2594219,1.17414836604003,2.83,1.26
 1,jlcee96,p,e,nc,1,f2,0.1290916,0.45,3.915897,0.2487565,1.19386749692973,2.83,1.26
 2,jlcee96,p,e,nc,1,f2,0.1298999,0.45,3.894206,0.2593278,1.18887022525159,2.83,1.26

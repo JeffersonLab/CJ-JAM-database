@@ -1,4 +1,4 @@
-,exp,Q2,x,value,stat_u,sys_u,obs,target,lepton beam,current,units,*%norm_c
+index,exp,Q2,x,value,stat_u,sys_u,obs,target,lepton beam,current,units,*%norm_c
 0,clas6,0.325,0.1045,0.27106,0.0023014,0.011837,F2,d,e,nc,1,1
 1,clas6,0.325,0.1135,0.26374,0.0043258,0.011462,F2,d,e,nc,1,1
 2,clas6,0.375,0.1135,0.26899,0.00077614,0.011663,F2,d,e,nc,1,1

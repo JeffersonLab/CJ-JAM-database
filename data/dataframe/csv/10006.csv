@@ -1,4 +1,4 @@
-,exp,Elab,X,Q2,obs,target,lepton beam,current,units,value,stat_u,syst_u,*norm_c
+index,exp,Elab,X,Q2,obs,target,lepton beam,current,units,value,stat_u,syst_u,*norm_c
 0,hermes,27.6,0.0069,0.291,F2,d,e_plus,NC,1,0.164,0.0023124,0.010267,0.0123
 1,hermes,27.6,0.0102,0.404,F2,d,e_plus,NC,1,0.193,0.002509,0.008887,0.014475
 2,hermes,27.6,0.0142,0.514,F2,d,e_plus,NC,1,0.217,0.0018228,0.010278,0.016275

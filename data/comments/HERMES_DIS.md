@@ -9,7 +9,8 @@
   
 ## Log:
   * @aaccardi (Oct 2017) -- initial data entry, converted from CJ database
-
+  * The last 8 data points gave abnormally large Ch2 values in CJ15. They are in the data files but have been excluded from all CJ15+ studies.
+    
 ## Source: CJ database
    * formatted by P.Monaghan, 2015 from original HERMES files
    * Reduced cross section calculation from original files by P.Monaghan, 2015 
